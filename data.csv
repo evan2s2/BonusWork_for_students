@@ -1,265 +1,17 @@
 ,pretty_formula,material_id,elasticity.G_VRH,elasticity.K_VRH,elasticity.elastic_tensor,cif
-0,LiHfPt2,mp-867834,18.0,143.0,"[[149.0, 140.0, 140.0, 0.0, 0.0, 0.0], [140.0, 149.0, 140.0, 0.0, 0.0, 0.0], [140.0, 140.0, 149.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 41.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 41.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 41.0]]","# generated using pymatgen
-data_LiHfPt2
+0,TiNi2Sn,mp-3740,40.0,156.0,"[[176.0, 145.0, 145.0, 0.0, 0.0, 0.0], [145.0, 176.0, 145.0, 0.0, 0.0, 0.0], [145.0, 145.0, 176.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 74.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 74.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 74.0]]","# generated using pymatgen
+data_TiNi2Sn
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.51822141
-_cell_length_b   4.51822141
-_cell_length_c   4.51822141
+_cell_length_a   4.32332723
+_cell_length_b   4.32332723
+_cell_length_c   4.32332723
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiHfPt2
-_chemical_formula_sum   'Li1 Hf1 Pt2'
-_cell_volume   65.22101160
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
-  Hf  Hf1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-1,LiZrPt2,mp-865866,17.0,140.0,"[[147.0, 136.0, 136.0, 0.0, 0.0, 0.0], [136.0, 147.0, 136.0, 0.0, 0.0, 0.0], [136.0, 136.0, 147.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 36.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 36.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 36.0]]","# generated using pymatgen
-data_LiZrPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.55654519
-_cell_length_b   4.55654519
-_cell_length_c   4.55654519
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiZrPt2
-_chemical_formula_sum   'Li1 Zr1 Pt2'
-_cell_volume   66.89475176
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
-  Zr  Zr1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-2,ScSnPt2,mp-30844,14.0,139.0,"[[138.0, 140.0, 140.0, 0.0, 0.0, 0.0], [140.0, 138.0, 140.0, 0.0, 0.0, 0.0], [140.0, 140.0, 138.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 50.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 50.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 50.0]]","# generated using pymatgen
-data_ScSnPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.68462202
-_cell_length_b   4.68462202
-_cell_length_c   4.68462202
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   ScSnPt2
-_chemical_formula_sum   'Sc1 Sn1 Pt2'
-_cell_volume   72.69569108
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Sc  Sc0  1  0.50000000  0.50000000  0.50000000  1
-  Sn  Sn1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-3,LiLuPt2,mp-861652,67.0,109.0,"[[62.0, 132.0, 132.0, 0.0, 0.0, 0.0], [132.0, 62.0, 132.0, 0.0, 0.0, 0.0], [132.0, 132.0, 62.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 31.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 31.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 31.0]]","# generated using pymatgen
-data_LiLuPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.60892624
-_cell_length_b   4.60892624
-_cell_length_c   4.60892624
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiLuPt2
-_chemical_formula_sum   'Li1 Lu1 Pt2'
-_cell_volume   69.22839714
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
-  Lu  Lu1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-4,HfZnPt2,mp-983430,32.0,212.0,"[[222.0, 207.0, 207.0, 0.0, 0.0, 0.0], [207.0, 222.0, 207.0, 0.0, 0.0, 0.0], [207.0, 207.0, 222.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 74.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 74.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 74.0]]","# generated using pymatgen
-data_HfZnPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.55168029
-_cell_length_b   4.55168029
-_cell_length_c   4.55168029
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   HfZnPt2
-_chemical_formula_sum   'Hf1 Zn1 Pt2'
-_cell_volume   66.68071553
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Hf  Hf0  1  0.50000000  0.50000000  0.50000000  1
-  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-5,LiScPt2,mp-865228,73.0,114.0,"[[-1.0, 171.0, 171.0, 0.0, 0.0, 0.0], [171.0, -1.0, 171.0, 0.0, 0.0, 0.0], [171.0, 171.0, -1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 53.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 53.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 53.0]]","# generated using pymatgen
-data_LiScPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.47682031
-_cell_length_b   4.47682031
-_cell_length_c   4.47682031
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiScPt2
-_chemical_formula_sum   'Li1 Sc1 Pt2'
-_cell_volume   63.44450184
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
-  Sc  Sc1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-6,YCdPt2,mp-865524,19.0,114.0,"[[120.0, 112.0, 112.0, 0.0, 0.0, 0.0], [112.0, 120.0, 112.0, 0.0, 0.0, 0.0], [112.0, 112.0, 120.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 47.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 47.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 47.0]]","# generated using pymatgen
-data_YCdPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.81319666
-_cell_length_b   4.81319666
-_cell_length_c   4.81319666
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   YCdPt2
-_chemical_formula_sum   'Y1 Cd1 Pt2'
-_cell_volume   78.84711789
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
-  Cd  Cd1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-7,LiAlPt2,mp-862296,134.0,161.0,"[[-13.0, 249.0, 249.0, 0.0, 0.0, 0.0], [249.0, -13.0, 249.0, 0.0, 0.0, 0.0], [249.0, 249.0, -13.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 88.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 88.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 88.0]]","# generated using pymatgen
-data_LiAlPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.26079070
-_cell_length_b   4.26079070
-_cell_length_c   4.26079070
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiAlPt2
-_chemical_formula_sum   'Li1 Al1 Pt2'
-_cell_volume   54.69600504
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
-  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.75000000  0.75000000  0.75000000  1
-  Pt  Pt3  1  0.25000000  0.25000000  0.25000000  1
-"
-8,TiZnPt2,mp-861619,-67.0,180.0,"[[142.0, 199.0, 199.0, 0.0, 0.0, 0.0], [199.0, 142.0, 199.0, 0.0, 0.0, 0.0], [199.0, 199.0, 142.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 76.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 76.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 76.0]]","# generated using pymatgen
-data_TiZnPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.42834531
-_cell_length_b   4.42834531
-_cell_length_c   4.42834531
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   TiZnPt2
-_chemical_formula_sum   'Ti1 Zn1 Pt2'
-_cell_volume   61.40580636
+_chemical_formula_structural   TiNi2Sn
+_chemical_formula_sum   'Ti1 Ni2 Sn1'
+_cell_volume   57.13988030
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -274,23 +26,23 @@ loop_
  _atom_site_fract_z
  _atom_site_occupancy
   Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
-  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
 "
-9,ScGaPt2,mp-867923,-112.0,148.0,"[[123.0, 161.0, 161.0, 0.0, 0.0, 0.0], [161.0, 123.0, 161.0, 0.0, 0.0, 0.0], [161.0, 161.0, 123.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 35.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 35.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 35.0]]","# generated using pymatgen
-data_ScGaPt2
+1,YbNi2Sn,mp-570899,47.0,95.0,"[[147.0, 69.0, 69.0, 0.0, 0.0, 0.0], [69.0, 147.0, 69.0, 0.0, 0.0, 0.0], [69.0, 69.0, 147.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 53.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 53.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 53.0]]","# generated using pymatgen
+data_YbNi2Sn
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.54040194
-_cell_length_b   4.54040194
-_cell_length_c   4.54040194
+_cell_length_a   4.50464355
+_cell_length_b   4.50464355
+_cell_length_c   4.50464355
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   ScGaPt2
-_chemical_formula_sum   'Sc1 Ga1 Pt2'
-_cell_volume   66.18626951
+_chemical_formula_structural   YbNi2Sn
+_chemical_formula_sum   'Yb1 Ni2 Sn1'
+_cell_volume   64.63478303
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -304,117 +56,24 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
-  Ga  Ga1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
+  Yb  Yb0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
 "
-10,ScZnPt2,mp-867768,-62.0,142.0,"[[110.0, 158.0, 158.0, 0.0, 0.0, 0.0], [158.0, 110.0, 158.0, 0.0, 0.0, 0.0], [158.0, 158.0, 110.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 60.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 60.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 60.0]]","# generated using pymatgen
-data_ScZnPt2
+2,ScGaNi2,mp-11400,49.0,130.0,"[[173.0, 108.0, 108.0, 0.0, 0.0, 0.0], [108.0, 173.0, 108.0, 0.0, 0.0, 0.0], [108.0, 108.0, 173.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 65.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 65.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 65.0]]","# generated using pymatgen
+data_ScGaNi2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.52035405
-_cell_length_b   4.52035405
-_cell_length_c   4.52035405
+_cell_length_a   4.27270121
+_cell_length_b   4.27270121
+_cell_length_c   4.27270121
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   ScZnPt2
-_chemical_formula_sum   'Sc1 Zn1 Pt2'
-_cell_volume   65.31340960
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Sc  Sc0  1  0.50000000  0.50000000  0.50000000  1
-  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-11,ScAlPt2,mp-973153,28.0,150.0,"[[173.0, 139.0, 139.0, 0.0, 0.0, 0.0], [139.0, 173.0, 139.0, 0.0, 0.0, 0.0], [139.0, 139.0, 173.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 39.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 39.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 39.0]]","# generated using pymatgen
-data_ScAlPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.52484276
-_cell_length_b   4.52484276
-_cell_length_c   4.52484276
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   ScAlPt2
-_chemical_formula_sum   'Sc1 Al1 Pt2'
-_cell_volume   65.50817162
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
-  Al  Al1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-12,ZrInPt2,mp-571310,18.0,161.0,"[[163.0, 159.0, 159.0, 0.0, 0.0, 0.0], [159.0, 163.0, 159.0, 0.0, 0.0, 0.0], [159.0, 159.0, 163.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 52.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 52.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 52.0]]","# generated using pymatgen
-data_ZrInPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.71410555
-_cell_length_b   4.71410555
-_cell_length_c   4.71410555
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   ZrInPt2
-_chemical_formula_sum   'Zr1 In1 Pt2'
-_cell_volume   74.07691855
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Zr  Zr0  1  0.50000000  0.50000000  0.50000000  1
-  In  In1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-13,ScInPt2,mp-20521,6.0,140.0,"[[129.0, 145.0, 145.0, 0.0, 0.0, 0.0], [145.0, 129.0, 145.0, 0.0, 0.0, 0.0], [145.0, 145.0, 129.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 64.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 64.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 64.0]]","# generated using pymatgen
-data_ScInPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.66898648
-_cell_length_b   4.66898648
-_cell_length_c   4.66898648
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   ScInPt2
-_chemical_formula_sum   'Sc1 In1 Pt2'
-_cell_volume   71.97022339
+_chemical_formula_structural   ScGaNi2
+_chemical_formula_sum   'Sc1 Ga1 Ni2'
+_cell_volume   55.15597592
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -429,23 +88,147 @@ loop_
  _atom_site_fract_z
  _atom_site_occupancy
   Sc  Sc0  1  0.50000000  0.50000000  0.50000000  1
-  In  In1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.75000000  0.75000000  0.75000000  1
-  Pt  Pt3  1  0.25000000  0.25000000  0.25000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
 "
-14,ZnCuPt2,mp-971739,51.0,212.0,"[[237.0, 199.0, 199.0, 0.0, 0.0, 0.0], [199.0, 237.0, 199.0, 0.0, 0.0, 0.0], [199.0, 199.0, 237.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 98.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 98.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 98.0]]","# generated using pymatgen
-data_ZnCuPt2
+3,MnSiNi2,mp-999508,20.0,163.0,"[[165.0, 162.0, 162.0, 0.0, 0.0, 0.0], [162.0, 165.0, 162.0, 0.0, 0.0, 0.0], [162.0, 162.0, 165.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 58.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 58.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 58.0]]","# generated using pymatgen
+data_MnSiNi2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.31009585
-_cell_length_b   4.31009585
-_cell_length_c   4.31009585
+_cell_length_a   4.02001802
+_cell_length_b   4.02001802
+_cell_length_c   4.02001802
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   ZnCuPt2
-_chemical_formula_sum   'Zn1 Cu1 Pt2'
-_cell_volume   56.61686082
+_chemical_formula_structural   MnSiNi2
+_chemical_formula_sum   'Mn1 Si1 Ni2'
+_cell_volume   45.93767391
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si1  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+4,LiNi2Ge,mp-16349,37.0,133.0,"[[140.0, 129.0, 129.0, 0.0, 0.0, 0.0], [129.0, 140.0, 129.0, 0.0, 0.0, 0.0], [129.0, 129.0, 140.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 98.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 98.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 98.0]]","# generated using pymatgen
+data_LiNi2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01153981
+_cell_length_b   4.01153981
+_cell_length_c   4.01153981
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNi2Ge
+_chemical_formula_sum   'Li1 Ni2 Ge1'
+_cell_volume   45.64763906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ge  Ge3  1  0.00000000  0.00000000  0.00000000  1
+"
+5,AlCrNi2,mp-10885,35.0,162.0,"[[162.0, 162.0, 162.0, 0.0, 0.0, 0.0], [162.0, 162.0, 162.0, 0.0, 0.0, 0.0], [162.0, 162.0, 162.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 120.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 120.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 120.0]]","# generated using pymatgen
+data_AlCrNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09238332
+_cell_length_b   4.09238332
+_cell_length_c   4.09238332
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCrNi2
+_chemical_formula_sum   'Al1 Cr1 Ni2'
+_cell_volume   48.46340468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+6,BeSiNi2,mp-865792,61.0,198.0,"[[223.0, 185.0, 185.0, 0.0, 0.0, 0.0], [185.0, 223.0, 185.0, 0.0, 0.0, 0.0], [185.0, 185.0, 223.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 126.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 126.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 126.0]]","# generated using pymatgen
+data_BeSiNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84096444
+_cell_length_b   3.84096444
+_cell_length_c   3.84096444
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSiNi2
+_chemical_formula_sum   'Be1 Si1 Ni2'
+_cell_volume   40.06875613
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.50000000  0.50000000  0.50000000  1
+  Si  Si1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+7,ZnCuNi2,mp-971738,49.0,182.0,"[[195.0, 175.0, 175.0, 0.0, 0.0, 0.0], [175.0, 195.0, 175.0, 0.0, 0.0, 0.0], [175.0, 175.0, 195.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 118.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 118.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 118.0]]","# generated using pymatgen
+data_ZnCuNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03624895
+_cell_length_b   4.03624895
+_cell_length_c   4.03624895
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuNi2
+_chemical_formula_sum   'Zn1 Cu1 Ni2'
+_cell_volume   46.49634723
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -461,22 +244,22 @@ loop_
  _atom_site_occupancy
   Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
   Cu  Cu1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
 "
-15,LiTmPt2,mp-867313,42.0,105.0,"[[64.0, 125.0, 125.0, 0.0, 0.0, 0.0], [125.0, 64.0, 125.0, 0.0, 0.0, 0.0], [125.0, 125.0, 64.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 24.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 24.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 24.0]]","# generated using pymatgen
-data_LiTmPt2
+8,NbGaNi2,mp-3539,32.0,192.0,"[[200.0, 188.0, 188.0, 0.0, 0.0, 0.0], [188.0, 200.0, 188.0, 0.0, 0.0, 0.0], [188.0, 188.0, 200.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 81.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 81.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 81.0]]","# generated using pymatgen
+data_NbGaNi2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.62329607
-_cell_length_b   4.62329607
-_cell_length_c   4.62329607
+_cell_length_a   4.23622157
+_cell_length_b   4.23622157
+_cell_length_c   4.23622157
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiTmPt2
-_chemical_formula_sum   'Li1 Tm1 Pt2'
-_cell_volume   69.87794412
+_chemical_formula_structural   NbGaNi2
+_chemical_formula_sum   'Nb1 Ga1 Ni2'
+_cell_volume   53.75526466
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -490,24 +273,24 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
-  Tm  Tm1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
+  Nb  Nb0  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
 "
-16,LiGaPt2,mp-867170,99.0,153.0,"[[-40.0, 250.0, 250.0, 0.0, 0.0, 0.0], [250.0, -40.0, 250.0, 0.0, 0.0, 0.0], [250.0, 250.0, -40.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 79.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 79.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 79.0]]","# generated using pymatgen
-data_LiGaPt2
+9,ScNi2Sn,mp-4536,51.0,128.0,"[[169.0, 107.0, 107.0, 0.0, 0.0, 0.0], [107.0, 169.0, 107.0, 0.0, 0.0, 0.0], [107.0, 107.0, 169.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 71.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 71.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 71.0]]","# generated using pymatgen
+data_ScNi2Sn
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.28867051
-_cell_length_b   4.28867051
-_cell_length_c   4.28867051
+_cell_length_a   4.42492574
+_cell_length_b   4.42492574
+_cell_length_c   4.42492574
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiGaPt2
-_chemical_formula_sum   'Li1 Ga1 Pt2'
-_cell_volume   55.77672966
+_chemical_formula_structural   ScNi2Sn
+_chemical_formula_sum   'Sc1 Ni2 Sn1'
+_cell_volume   61.26366348
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -521,55 +304,24 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
-  Ga  Ga1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.75000000  0.75000000  0.75000000  1
-  Pt  Pt3  1  0.25000000  0.25000000  0.25000000  1
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sn  Sn3  1  0.50000000  0.50000000  0.50000000  1
 "
-17,PaInPt2,mp-862824,19.0,127.0,"[[93.0, 145.0, 145.0, 0.0, 0.0, 0.0], [145.0, 93.0, 145.0, 0.0, 0.0, 0.0], [145.0, 145.0, 93.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 15.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 15.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 15.0]]","# generated using pymatgen
-data_PaInPt2
+10,GaFeNi2,mp-1018074,27.0,147.0,"[[142.0, 149.0, 149.0, 0.0, 0.0, 0.0], [149.0, 142.0, 149.0, 0.0, 0.0, 0.0], [149.0, 149.0, 142.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 109.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 109.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 109.0]]","# generated using pymatgen
+data_GaFeNi2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.87195441
-_cell_length_b   4.87195441
-_cell_length_c   4.87195441
+_cell_length_a   4.06575227
+_cell_length_b   4.06575227
+_cell_length_c   4.06575227
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   PaInPt2
-_chemical_formula_sum   'Pa1 In1 Pt2'
-_cell_volume   81.77012259
-_cell_formula_units_Z   1
-loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Pa  Pa0  1  0.00000000  0.00000000  0.00000000  1
-  In  In1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
-"
-18,GaCuPt2,mp-862791,472.0,220.0,"[[148.0, 256.0, 256.0, 0.0, 0.0, 0.0], [256.0, 148.0, 256.0, 0.0, 0.0, 0.0], [256.0, 256.0, 148.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 71.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 71.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 71.0]]","# generated using pymatgen
-data_GaCuPt2
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.32932491
-_cell_length_b   4.32932491
-_cell_length_c   4.32932491
-_cell_angle_alpha   60.00000000
-_cell_angle_beta   60.00000000
-_cell_angle_gamma   60.00000000
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   GaCuPt2
-_chemical_formula_sum   'Ga1 Cu1 Pt2'
-_cell_volume   57.37801797
+_chemical_formula_structural   GaFeNi2
+_chemical_formula_sum   'Ga1 Fe1 Ni2'
+_cell_volume   47.52342595
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -584,23 +336,23 @@ loop_
  _atom_site_fract_z
  _atom_site_occupancy
   Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1
-  Cu  Cu1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
+  Fe  Fe1  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
 "
-19,LiInPt2,mp-862774,87.0,130.0,"[[30.0, 180.0, 180.0, 0.0, 0.0, 0.0], [180.0, 30.0, 180.0, 0.0, 0.0, 0.0], [180.0, 180.0, 30.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 54.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 54.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 54.0]]","# generated using pymatgen
-data_LiInPt2
+11,ScInNi2,mp-21301,49.0,118.0,"[[156.0, 99.0, 99.0, 0.0, 0.0, 0.0], [99.0, 156.0, 99.0, 0.0, 0.0, 0.0], [99.0, 99.0, 156.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 70.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 70.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 70.0]]","# generated using pymatgen
+data_ScInNi2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.49517680
-_cell_length_b   4.49517680
-_cell_length_c   4.49517680
+_cell_length_a   4.43990792
+_cell_length_b   4.43990792
+_cell_length_c   4.43990792
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiInPt2
-_chemical_formula_sum   'Li1 In1 Pt2'
-_cell_volume   64.22813862
+_chemical_formula_structural   ScInNi2
+_chemical_formula_sum   'Sc1 In1 Ni2'
+_cell_volume   61.88806339
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -614,24 +366,396 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
-  In  In1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
+  Sc  Sc0  1  0.50000000  0.50000000  0.50000000  1
+  In  In1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
 "
-20,LiTiPt2,mp-977440,40.0,181.0,"[[-8.0, 275.0, 275.0, 0.0, 0.0, 0.0], [275.0, -8.0, 275.0, 0.0, 0.0, 0.0], [275.0, 275.0, -8.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 50.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 50.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 50.0]]","# generated using pymatgen
-data_LiTiPt2
+12,ZrGaNi2,mp-22580,31.0,152.0,"[[186.0, 135.0, 135.0, 0.0, 0.0, 0.0], [135.0, 186.0, 135.0, 0.0, 0.0, 0.0], [135.0, 135.0, 186.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 34.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 34.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 34.0]]","# generated using pymatgen
+data_ZrGaNi2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.36052812
-_cell_length_b   4.36052812
-_cell_length_c   4.36052812
+_cell_length_a   4.32844951
+_cell_length_b   4.32844951
+_cell_length_c   4.32844951
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiTiPt2
-_chemical_formula_sum   'Li1 Ti1 Pt2'
-_cell_volume   58.62762149
+_chemical_formula_structural   ZrGaNi2
+_chemical_formula_sum   'Zr1 Ga1 Ni2'
+_cell_volume   57.34321915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+13,ZnNi2Ge,mp-16358,40.0,148.0,"[[172.0, 137.0, 137.0, 0.0, 0.0, 0.0], [137.0, 172.0, 137.0, 0.0, 0.0, 0.0], [137.0, 137.0, 172.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 69.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 69.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 69.0]]","# generated using pymatgen
+data_ZnNi2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10890841
+_cell_length_b   4.10890841
+_cell_length_c   4.10890841
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnNi2Ge
+_chemical_formula_sum   'Zn1 Ni2 Ge1'
+_cell_volume   49.05286570
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ge  Ge3  1  0.50000000  0.50000000  0.50000000  1
+"
+14,TaAlNi2,mp-5921,54.0,192.0,"[[225.0, 175.0, 175.0, 0.0, 0.0, 0.0], [175.0, 225.0, 175.0, 0.0, 0.0, 0.0], [175.0, 175.0, 225.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 88.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 88.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 88.0]]","# generated using pymatgen
+data_TaAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22776882
+_cell_length_b   4.22776882
+_cell_length_c   4.22776882
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAlNi2
+_chemical_formula_sum   'Ta1 Al1 Ni2'
+_cell_volume   53.43412423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+15,TiInNi2,mp-22463,42.0,152.0,"[[180.0, 138.0, 138.0, 0.0, 0.0, 0.0], [138.0, 180.0, 138.0, 0.0, 0.0, 0.0], [138.0, 138.0, 180.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 67.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 67.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 67.0]]","# generated using pymatgen
+data_TiInNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33196949
+_cell_length_b   4.33196949
+_cell_length_c   4.33196949
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiInNi2
+_chemical_formula_sum   'Ti1 In1 Ni2'
+_cell_volume   57.48323074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  In  In1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+16,MnGaNi2,mp-20228,21.0,154.0,"[[145.0, 159.0, 159.0, 0.0, 0.0, 0.0], [159.0, 145.0, 159.0, 0.0, 0.0, 0.0], [159.0, 159.0, 145.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 107.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 107.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 107.0]]","# generated using pymatgen
+data_MnGaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09071172
+_cell_length_b   4.09071172
+_cell_length_c   4.09071172
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGaNi2
+_chemical_formula_sum   'Mn1 Ga1 Ni2'
+_cell_volume   48.40404194
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+17,VGaNi2,mp-30658,30.0,186.0,"[[184.0, 187.0, 187.0, 0.0, 0.0, 0.0], [187.0, 184.0, 187.0, 0.0, 0.0, 0.0], [187.0, 187.0, 184.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 107.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 107.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 107.0]]","# generated using pymatgen
+data_VGaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09886891
+_cell_length_b   4.09886891
+_cell_length_c   4.09886891
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VGaNi2
+_chemical_formula_sum   'V1 Ga1 Ni2'
+_cell_volume   48.69418353
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+18,CuNi2Sn,mp-30592,23.0,148.0,"[[145.0, 149.0, 149.0, 0.0, 0.0, 0.0], [149.0, 145.0, 149.0, 0.0, 0.0, 0.0], [149.0, 149.0, 145.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 87.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 87.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 87.0]]","# generated using pymatgen
+data_CuNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22505070
+_cell_length_b   4.22505070
+_cell_length_c   4.22505070
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuNi2Sn
+_chemical_formula_sum   'Cu1 Ni2 Sn1'
+_cell_volume   53.33112882
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sn  Sn3  1  0.50000000  0.50000000  0.50000000  1
+"
+19,TiZnNi2,mp-865093,50.0,169.0,"[[196.0, 156.0, 156.0, 0.0, 0.0, 0.0], [156.0, 196.0, 156.0, 0.0, 0.0, 0.0], [156.0, 156.0, 196.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 90.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 90.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 90.0]]","# generated using pymatgen
+data_TiZnNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14843851
+_cell_length_b   4.14843851
+_cell_length_c   4.14843851
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiZnNi2
+_chemical_formula_sum   'Ti1 Zn1 Ni2'
+_cell_volume   50.48228135
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+20,PaNi2Sn,mp-861995,39.0,141.0,"[[213.0, 105.0, 105.0, 0.0, 0.0, 0.0], [105.0, 213.0, 105.0, 0.0, 0.0, 0.0], [105.0, 105.0, 213.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 31.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 31.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 31.0]]","# generated using pymatgen
+data_PaNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60163880
+_cell_length_b   4.60163880
+_cell_length_c   4.60163880
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaNi2Sn
+_chemical_formula_sum   'Pa1 Ni2 Sn1'
+_cell_volume   68.90053290
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
+"
+21,MgNi2Sb,mp-30773,37.0,110.0,"[[133.0, 99.0, 99.0, 0.0, 0.0, 0.0], [99.0, 133.0, 99.0, 0.0, 0.0, 0.0], [99.0, 99.0, 133.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 63.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 63.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 63.0]]","# generated using pymatgen
+data_MgNi2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36145725
+_cell_length_b   4.36145725
+_cell_length_c   4.36145725
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNi2Sb
+_chemical_formula_sum   'Mg1 Ni2 Sb1'
+_cell_volume   58.66510647
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sb  Sb3  1  0.50000000  0.50000000  0.50000000  1
+"
+22,MgInNi2,mp-19929,41.0,104.0,"[[124.0, 94.0, 94.0, 0.0, 0.0, 0.0], [94.0, 124.0, 94.0, 0.0, 0.0, 0.0], [94.0, 94.0, 124.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 77.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 77.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 77.0]]","# generated using pymatgen
+data_MgInNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36927785
+_cell_length_b   4.36927785
+_cell_length_c   4.36927785
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgInNi2
+_chemical_formula_sum   'Mg1 In1 Ni2'
+_cell_volume   58.98125280
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.50000000  1
+  In  In1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+23,VNi2Sn,mp-20864,-35.0,185.0,"[[161.0, 197.0, 197.0, 0.0, 0.0, 0.0], [197.0, 161.0, 197.0, 0.0, 0.0, 0.0], [197.0, 197.0, 161.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 52.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 52.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 52.0]]","# generated using pymatgen
+data_VNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26684354
+_cell_length_b   4.26684354
+_cell_length_c   4.26684354
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VNi2Sn
+_chemical_formula_sum   'V1 Ni2 Sn1'
+_cell_volume   54.92943803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
+"
+24,LiNi2Sn,mp-13915,28.0,108.0,"[[115.0, 105.0, 105.0, 0.0, 0.0, 0.0], [105.0, 115.0, 105.0, 0.0, 0.0, 0.0], [105.0, 105.0, 115.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 71.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 71.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 71.0]]","# generated using pymatgen
+data_LiNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23761599
+_cell_length_b   4.23761599
+_cell_length_c   4.23761599
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNi2Sn
+_chemical_formula_sum   'Li1 Ni2 Sn1'
+_cell_volume   53.80836514
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -646,23 +770,23 @@ loop_
  _atom_site_fract_z
  _atom_site_occupancy
   Li  Li0  1  0.50000000  0.50000000  0.50000000  1
-  Ti  Ti1  1  0.00000000  0.00000000  0.00000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
 "
-21,LiBePt2,mp-862316,81.0,165.0,"[[293.0, 101.0, 101.0, 0.0, 0.0, 0.0], [101.0, 293.0, 101.0, 0.0, 0.0, 0.0], [101.0, 101.0, 293.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 73.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 73.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 73.0]]","# generated using pymatgen
-data_LiBePt2
+25,CuNi2Sb,mp-30069,25.0,149.0,"[[151.0, 148.0, 148.0, 0.0, 0.0, 0.0], [148.0, 151.0, 148.0, 0.0, 0.0, 0.0], [148.0, 148.0, 151.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 78.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 78.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 78.0]]","# generated using pymatgen
+data_CuNi2Sb
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.07150812
-_cell_length_b   4.07150812
-_cell_length_c   4.07150812
+_cell_length_a   4.22685665
+_cell_length_b   4.22685665
+_cell_length_c   4.22685665
 _cell_angle_alpha   60.00000000
 _cell_angle_beta   60.00000000
 _cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   LiBePt2
-_chemical_formula_sum   'Li1 Be1 Pt2'
-_cell_volume   47.72554729
+_chemical_formula_structural   CuNi2Sb
+_chemical_formula_sum   'Cu1 Ni2 Sb1'
+_cell_volume   53.39954544
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -676,8 +800,969 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
-  Be  Be1  1  0.50000000  0.50000000  0.50000000  1
-  Pt  Pt2  1  0.25000000  0.25000000  0.25000000  1
-  Pt  Pt3  1  0.75000000  0.75000000  0.75000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sb  Sb3  1  0.50000000  0.50000000  0.50000000  1
+"
+26,LiAlNi2,mp-867812,-33.0,120.0,"[[86.0, 138.0, 138.0, 0.0, 0.0, 0.0], [138.0, 86.0, 138.0, 0.0, 0.0, 0.0], [138.0, 138.0, 86.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 92.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 92.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 92.0]]","# generated using pymatgen
+data_LiAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02074775
+_cell_length_b   4.02074775
+_cell_length_c   4.02074775
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlNi2
+_chemical_formula_sum   'Li1 Al1 Ni2'
+_cell_volume   45.96269498
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+27,HfInNi2,mp-640024,55.0,144.0,"[[189.0, 121.0, 121.0, 0.0, 0.0, 0.0], [121.0, 189.0, 121.0, 0.0, 0.0, 0.0], [121.0, 121.0, 189.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 75.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 75.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 75.0]]","# generated using pymatgen
+data_HfInNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38114028
+_cell_length_b   4.38114028
+_cell_length_c   4.38114028
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfInNi2
+_chemical_formula_sum   'Hf1 In1 Ni2'
+_cell_volume   59.46295381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000000  0.50000000  0.50000000  1
+  In  In1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+28,ScAlNi2,mp-10898,56.0,133.0,"[[189.0, 105.0, 105.0, 0.0, 0.0, 0.0], [105.0, 189.0, 105.0, 0.0, 0.0, 0.0], [105.0, 105.0, 189.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 69.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 69.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 69.0]]","# generated using pymatgen
+data_ScAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27881627
+_cell_length_b   4.27881627
+_cell_length_c   4.27881627
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAlNi2
+_chemical_formula_sum   'Sc1 Al1 Ni2'
+_cell_volume   55.39313153
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+29,NbNi2Sn,mp-3504,30.0,178.0,"[[186.0, 175.0, 175.0, 0.0, 0.0, 0.0], [175.0, 186.0, 175.0, 0.0, 0.0, 0.0], [175.0, 175.0, 186.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 75.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 75.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 75.0]]","# generated using pymatgen
+data_NbNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38473945
+_cell_length_b   4.38473945
+_cell_length_c   4.38473945
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbNi2Sn
+_chemical_formula_sum   'Nb1 Ni2 Sn1'
+_cell_volume   59.60962341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
+"
+30,ZrNi2Sb,mp-19904,37.0,137.0,"[[169.0, 122.0, 122.0, 0.0, 0.0, 0.0], [122.0, 169.0, 122.0, 0.0, 0.0, 0.0], [122.0, 122.0, 169.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 49.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 49.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 49.0]]","# generated using pymatgen
+data_ZrNi2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47004340
+_cell_length_b   4.47004340
+_cell_length_c   4.47004340
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrNi2Sb
+_chemical_formula_sum   'Zr1 Ni2 Sb1'
+_cell_volume   63.15681513
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sb  Sb3  1  0.00000000  0.00000000  0.00000000  1
+"
+31,MgNi2Sn,mp-30774,45.0,114.0,"[[141.0, 101.0, 101.0, 0.0, 0.0, 0.0], [101.0, 141.0, 101.0, 0.0, 0.0, 0.0], [101.0, 101.0, 141.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 78.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 78.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 78.0]]","# generated using pymatgen
+data_MgNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35879288
+_cell_length_b   4.35879288
+_cell_length_c   4.35879288
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNi2Sn
+_chemical_formula_sum   'Mg1 Ni2 Sn1'
+_cell_volume   58.55765805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
+"
+32,TaGaNi2,mp-21175,40.0,187.0,"[[202.0, 180.0, 180.0, 0.0, 0.0, 0.0], [180.0, 202.0, 180.0, 0.0, 0.0, 0.0], [180.0, 180.0, 202.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 88.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 88.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 88.0]]","# generated using pymatgen
+data_TaGaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22510020
+_cell_length_b   4.22510020
+_cell_length_c   4.22510020
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaGaNi2
+_chemical_formula_sum   'Ta1 Ga1 Ni2'
+_cell_volume   53.33300320
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+33,TiGaNi2,mp-30657,40.0,166.0,"[[180.0, 159.0, 159.0, 0.0, 0.0, 0.0], [159.0, 180.0, 159.0, 0.0, 0.0, 0.0], [159.0, 159.0, 180.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 90.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 90.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 90.0]]","# generated using pymatgen
+data_TiGaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16234306
+_cell_length_b   4.16234306
+_cell_length_c   4.16234306
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiGaNi2
+_chemical_formula_sum   'Ti1 Ga1 Ni2'
+_cell_volume   50.99159729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+34,HfNi2Sn,mp-4828,41.0,152.0,"[[174.0, 141.0, 141.0, 0.0, 0.0, 0.0], [141.0, 174.0, 141.0, 0.0, 0.0, 0.0], [141.0, 141.0, 174.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 75.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 75.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 75.0]]","# generated using pymatgen
+data_HfNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43521698
+_cell_length_b   4.43521698
+_cell_length_c   4.43521698
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNi2Sn
+_chemical_formula_sum   'Hf1 Ni2 Sn1'
+_cell_volume   61.69210867
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
+"
+35,TiAlNi2,mp-7187,59.0,162.0,"[[202.0, 142.0, 142.0, 0.0, 0.0, 0.0], [142.0, 202.0, 142.0, 0.0, 0.0, 0.0], [142.0, 142.0, 202.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 93.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 93.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 93.0]]","# generated using pymatgen
+data_TiAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16387606
+_cell_length_b   4.16387606
+_cell_length_c   4.16387606
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlNi2
+_chemical_formula_sum   'Ti1 Al1 Ni2'
+_cell_volume   51.04795927
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+36,NbAlNi2,mp-4813,45.0,181.0,"[[205.0, 168.0, 168.0, 0.0, 0.0, 0.0], [168.0, 205.0, 168.0, 0.0, 0.0, 0.0], [168.0, 168.0, 205.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 81.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 81.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 81.0]]","# generated using pymatgen
+data_NbAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23949265
+_cell_length_b   4.23949265
+_cell_length_c   4.23949265
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAlNi2
+_chemical_formula_sum   'Nb1 Al1 Ni2'
+_cell_volume   53.87988517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+37,MgGaNi2,mp-865092,35.0,124.0,"[[135.0, 118.0, 118.0, 0.0, 0.0, 0.0], [118.0, 135.0, 118.0, 0.0, 0.0, 0.0], [118.0, 118.0, 135.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 82.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 82.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 82.0]]","# generated using pymatgen
+data_MgGaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17999810
+_cell_length_b   4.17999810
+_cell_length_c   4.17999810
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgGaNi2
+_chemical_formula_sum   'Mg1 Ga1 Ni2'
+_cell_volume   51.64321303
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga1  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+38,LiSiNi2,mp-10181,43.0,149.0,"[[159.0, 144.0, 144.0, 0.0, 0.0, 0.0], [144.0, 159.0, 144.0, 0.0, 0.0, 0.0], [144.0, 144.0, 159.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 110.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 110.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 110.0]]","# generated using pymatgen
+data_LiSiNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91652445
+_cell_length_b   3.91652445
+_cell_length_c   3.91652445
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSiNi2
+_chemical_formula_sum   'Li1 Si1 Ni2'
+_cell_volume   42.48029556
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  Si  Si1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+39,LuNi2Sn,mp-11492,29.0,104.0,"[[144.0, 84.0, 84.0, 0.0, 0.0, 0.0], [84.0, 144.0, 84.0, 0.0, 0.0, 0.0], [84.0, 84.0, 144.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 28.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 28.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 28.0]]","# generated using pymatgen
+data_LuNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51862022
+_cell_length_b   4.51862022
+_cell_length_c   4.51862022
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuNi2Sn
+_chemical_formula_sum   'Lu1 Ni2 Sn1'
+_cell_volume   65.23828364
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
+"
+40,ZrInNi2,mp-20744,51.0,139.0,"[[185.0, 117.0, 117.0, 0.0, 0.0, 0.0], [117.0, 185.0, 117.0, 0.0, 0.0, 0.0], [117.0, 117.0, 185.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 67.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 67.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 67.0]]","# generated using pymatgen
+data_ZrInNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46438655
+_cell_length_b   4.46438655
+_cell_length_c   4.46438655
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrInNi2
+_chemical_formula_sum   'Zr1 In1 Ni2'
+_cell_volume   62.91734298
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.50000000  0.50000000  1
+  In  In1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+41,MnAlNi2,mp-4922,26.0,158.0,"[[150.0, 162.0, 162.0, 0.0, 0.0, 0.0], [162.0, 150.0, 162.0, 0.0, 0.0, 0.0], [162.0, 162.0, 150.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 117.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 117.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 117.0]]","# generated using pymatgen
+data_MnAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08913488
+_cell_length_b   4.08913488
+_cell_length_c   4.08913488
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAlNi2
+_chemical_formula_sum   'Mn1 Al1 Ni2'
+_cell_volume   48.34808855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+42,MnNi2Ge,mp-22029,21.0,157.0,"[[154.0, 158.0, 158.0, 0.0, 0.0, 0.0], [158.0, 154.0, 158.0, 0.0, 0.0, 0.0], [158.0, 158.0, 154.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 82.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 82.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 82.0]]","# generated using pymatgen
+data_MnNi2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10072577
+_cell_length_b   4.10072577
+_cell_length_c   4.10072577
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNi2Ge
+_chemical_formula_sum   'Mn1 Ni2 Ge1'
+_cell_volume   48.76039158
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ge  Ge3  1  0.00000000  0.00000000  0.00000000  1
+"
+43,MnNi2Sn,mp-20440,35.0,146.0,"[[156.0, 141.0, 141.0, 0.0, 0.0, 0.0], [141.0, 156.0, 141.0, 0.0, 0.0, 0.0], [141.0, 141.0, 156.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 84.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 84.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 84.0]]","# generated using pymatgen
+data_MnNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27764954
+_cell_length_b   4.27764954
+_cell_length_c   4.27764954
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNi2Sn
+_chemical_formula_sum   'Mn1 Ni2 Sn1'
+_cell_volume   55.34783092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sn  Sn3  1  0.50000000  0.50000000  0.50000000  1
+"
+44,LiGaNi2,mp-867197,-17.0,118.0,"[[89.0, 132.0, 132.0, 0.0, 0.0, 0.0], [132.0, 89.0, 132.0, 0.0, 0.0, 0.0], [132.0, 132.0, 89.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 94.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 94.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 94.0]]","# generated using pymatgen
+data_LiGaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02408105
+_cell_length_b   4.02408105
+_cell_length_c   4.02408105
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGaNi2
+_chemical_formula_sum   'Li1 Ga1 Ni2'
+_cell_volume   46.07710247
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+45,AlVNi2,mp-10899,51.0,177.0,"[[196.0, 168.0, 168.0, 0.0, 0.0, 0.0], [168.0, 196.0, 168.0, 0.0, 0.0, 0.0], [168.0, 168.0, 196.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 111.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 111.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 111.0]]","# generated using pymatgen
+data_AlVNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09628655
+_cell_length_b   4.09628655
+_cell_length_c   4.09628655
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlVNi2
+_chemical_formula_sum   'Al1 V1 Ni2'
+_cell_volume   48.60220713
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  0.00000000  0.00000000  1
+  V  V1  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+46,HfAlNi2,mp-5748,49.0,164.0,"[[218.0, 138.0, 138.0, 0.0, 0.0, 0.0], [138.0, 218.0, 138.0, 0.0, 0.0, 0.0], [138.0, 138.0, 218.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 56.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 56.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 56.0]]","# generated using pymatgen
+data_HfAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30081860
+_cell_length_b   4.30081860
+_cell_length_c   4.30081860
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfAlNi2
+_chemical_formula_sum   'Hf1 Al1 Ni2'
+_cell_volume   56.25205327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+47,UNi2Sn,mp-672374,46.0,98.0,"[[178.0, 58.0, 58.0, 0.0, 0.0, 0.0], [58.0, 178.0, 58.0, 0.0, 0.0, 0.0], [58.0, 58.0, 178.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 38.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 38.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 38.0]]","# generated using pymatgen
+data_UNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56458075
+_cell_length_b   4.56458075
+_cell_length_c   4.56458075
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UNi2Sn
+_chemical_formula_sum   'U1 Ni2 Sn1'
+_cell_volume   67.24928709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.00000000  1
+"
+48,TiNi2Sb,mp-10261,33.0,171.0,"[[185.0, 164.0, 164.0, 0.0, 0.0, 0.0], [164.0, 185.0, 164.0, 0.0, 0.0, 0.0], [164.0, 164.0, 185.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 67.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 67.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 67.0]]","# generated using pymatgen
+data_TiNi2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32680902
+_cell_length_b   4.32680902
+_cell_length_c   4.32680902
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNi2Sb
+_chemical_formula_sum   'Ti1 Ni2 Sb1'
+_cell_volume   57.27804441
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sb  Sb3  1  0.00000000  0.00000000  0.00000000  1
+"
+49,ZrAlNi2,mp-3944,39.0,149.0,"[[202.0, 122.0, 122.0, 0.0, 0.0, 0.0], [122.0, 202.0, 122.0, 0.0, 0.0, 0.0], [122.0, 122.0, 202.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 39.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 39.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 39.0]]","# generated using pymatgen
+data_ZrAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33334976
+_cell_length_b   4.33334976
+_cell_length_c   4.33334976
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAlNi2
+_chemical_formula_sum   'Zr1 Al1 Ni2'
+_cell_volume   57.53819498
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+50,HfGaNi2,mp-3498,39.0,165.0,"[[200.0, 147.0, 147.0, 0.0, 0.0, 0.0], [147.0, 200.0, 147.0, 0.0, 0.0, 0.0], [147.0, 147.0, 200.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 50.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 50.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 50.0]]","# generated using pymatgen
+data_HfGaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29388472
+_cell_length_b   4.29388472
+_cell_length_c   4.29388472
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGaNi2
+_chemical_formula_sum   'Hf1 Ga1 Ni2'
+_cell_volume   55.98041871
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+51,MnNi2Sb,mp-5124,21.0,138.0,"[[137.0, 139.0, 139.0, 0.0, 0.0, 0.0], [139.0, 137.0, 139.0, 0.0, 0.0, 0.0], [139.0, 139.0, 137.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 72.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 72.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 72.0]]","# generated using pymatgen
+data_MnNi2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28025735
+_cell_length_b   4.28025735
+_cell_length_c   4.28025735
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNi2Sb
+_chemical_formula_sum   'Mn1 Ni2 Sb1'
+_cell_volume   55.44911876
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sb  Sb3  1  0.50000000  0.50000000  0.50000000  1
+"
+52,HfZnNi2,mp-864807,49.0,151.0,"[[193.0, 129.0, 129.0, 0.0, 0.0, 0.0], [129.0, 193.0, 129.0, 0.0, 0.0, 0.0], [129.0, 129.0, 193.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 66.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 66.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 66.0]]","# generated using pymatgen
+data_HfZnNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28872849
+_cell_length_b   4.28872849
+_cell_length_c   4.28872849
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZnNi2
+_chemical_formula_sum   'Hf1 Zn1 Ni2'
+_cell_volume   55.77899199
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni3  1  0.75000000  0.75000000  0.75000000  1
+"
+53,MnInNi2,mp-22731,30.0,133.0,"[[139.0, 129.0, 129.0, 0.0, 0.0, 0.0], [129.0, 139.0, 129.0, 0.0, 0.0, 0.0], [129.0, 129.0, 139.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 79.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 79.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 79.0]]","# generated using pymatgen
+data_MnInNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27780935
+_cell_length_b   4.27780935
+_cell_length_c   4.27780935
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnInNi2
+_chemical_formula_sum   'Mn1 In1 Ni2'
+_cell_volume   55.35403427
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  In  In1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni3  1  0.25000000  0.25000000  0.25000000  1
+"
+54,PaNi2Sb,mp-861992,30.0,144.0,"[[202.0, 116.0, 116.0, 0.0, 0.0, 0.0], [116.0, 202.0, 116.0, 0.0, 0.0, 0.0], [116.0, 116.0, 202.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 24.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 24.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 24.0]]","# generated using pymatgen
+data_PaNi2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61879321
+_cell_length_b   4.61879321
+_cell_length_c   4.61879321
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaNi2Sb
+_chemical_formula_sum   'Pa1 Ni2 Sb1'
+_cell_volume   69.67397019
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sb  Sb3  1  0.00000000  0.00000000  0.00000000  1
+"
+55,ZrNi2Sn,mp-19877,39.0,144.0,"[[167.0, 133.0, 133.0, 0.0, 0.0, 0.0], [133.0, 167.0, 133.0, 0.0, 0.0, 0.0], [133.0, 133.0, 167.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 68.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 68.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 68.0]]","# generated using pymatgen
+data_ZrNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46776510
+_cell_length_b   4.46776510
+_cell_length_c   4.46776510
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrNi2Sn
+_chemical_formula_sum   'Zr1 Ni2 Sn1'
+_cell_volume   63.06029477
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.75000000  0.75000000  0.75000000  1
+  Ni  Ni2  1  0.25000000  0.25000000  0.25000000  1
+  Sn  Sn3  1  0.50000000  0.50000000  0.50000000  1
+"
+56,TmNi2Sn,mp-865974,27.0,160.0,"[[199.0, 141.0, 141.0, 0.0, 0.0, 0.0], [141.0, 199.0, 141.0, 0.0, 0.0, 0.0], [141.0, 141.0, 199.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 26.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 26.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 26.0]]","# generated using pymatgen
+data_TmNi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55318360
+_cell_length_b   4.55318360
+_cell_length_c   4.55318360
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmNi2Sn
+_chemical_formula_sum   'Tm1 Ni2 Sn1'
+_cell_volume   66.74680640
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.25000000  0.25000000  0.25000000  1
+  Ni  Ni2  1  0.75000000  0.75000000  0.75000000  1
+  Sn  Sn3  1  0.50000000  0.50000000  0.50000000  1
 "
